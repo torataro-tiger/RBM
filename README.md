@@ -1,5 +1,6 @@
 # RBM
-制限ボルツマンマシン実行用のコードです。
+制限ボルツマンマシン実行用のコードです。制限ボルツマンマシンは以下の記事で解説しています。
+https://zenn.dev/torataro/articles/2025-01-18-restricted_boltzmann_machine
 
 ## 実行方法
 仮想環境を作成し`poetry install`でモジュールをインストールするか、`pip install -r requirements.txt`でモジュールをインストールしてください。
